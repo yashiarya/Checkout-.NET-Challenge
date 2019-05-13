@@ -5,9 +5,9 @@ For the .NET Challenge I used ASP.NET MVC 4 and C# to design a prototype with a 
 Controllers:
  - ProductController.cs
  - CartController.cs
- - Models:
 
-Product.cs
+Models:
+ - Product.cs
  - Item.cs
  - ProductModel.cs
  
@@ -15,4 +15,4 @@ Product.cs
  - Product
  - Cart
 
-Note: Open solution and debug to run index.cshtml (product view) on localhost.
+Note: Download the repository, open solution on Visual Basic Studio and debug to run index.cshtml (product view) on localhost.
