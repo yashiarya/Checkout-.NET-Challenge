@@ -15,4 +15,4 @@ Models:
  - Product
  - Cart
 
-Note: Download the repository, open solution on Visual Basic Studio and debug to run index.cshtml (product view) on localhost.
+Note: Download and extract ShoppingBasket.rar and debug the solution to run index.cshtml (product view) on localhost.
